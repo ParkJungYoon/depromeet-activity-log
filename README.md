@@ -33,3 +33,4 @@
 | 2 | [멀티 모듈, 그게 뭔데? 그거 어떻게 하는건데? 🧐](https://hello-judy-world.tistory.com/204) | `java`, `spring` |
 | 3 | [[AWS Cloud Practitioner] 스터디 1주차 정리](https://hello-judy-world.tistory.com/206) | `AWS`, `스터디` |
 | 4 | [Github Actions를 이용한 CI 빌드, 테스트 자동화](https://hello-judy-world.tistory.com/210) | `DevOps`, `인프라` |
+| 5 | [[Git] Submodule로 민감 정보 관리하기 (.yml 파일)](https://hello-judy-world.tistory.com/212)  | `Git` |

@@ -35,3 +35,4 @@
 | 4 | [Github Actions를 이용한 CI 빌드, 테스트 자동화](https://hello-judy-world.tistory.com/210) | `DevOps`, `인프라` |
 | 5 | [코딩 컨벤션 설정 \| Spotless, Checkstyle ⚙️✨](https://hello-judy-world.tistory.com/211) | `java`, `협업` |
 | 6 | [[Git] Submodule로 민감 정보 관리하기 (.yml 파일)](https://hello-judy-world.tistory.com/212)  | `Git` |
+| 7 | [[Gradle] Jacoco 적용하고, Codecov로 테스트 커버리지 관리하기](https://hello-judy-world.tistory.com/213) | `java`, `gradle`, `test` |

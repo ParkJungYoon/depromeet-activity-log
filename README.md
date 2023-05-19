@@ -3,6 +3,8 @@
 # 🧗‍♀️ Depromeet 13th 활동 기록
 > `디프만`: 디자이너와 프로그래머가 만났을 때
 
+[![Depromeet](https://img.shields.io/badge/depromeet-deprommet-blue)](https://depromeet.com)
+
 ### 관련 링크
 
 - [공식 홈페이지](https://www.depromeet.com/), [인스타그램](https://www.instagram.com/depromeet/), [깃허브](https://github.com/depromeet), [비핸스](https://www.behance.net/Depromeet)

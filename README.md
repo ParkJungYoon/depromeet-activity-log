@@ -39,3 +39,4 @@
 | 6 | [[Git] Submodule로 민감 정보 관리하기 (.yml 파일)](https://hello-judy-world.tistory.com/212)  | `Git` |
 | 7 | [[Gradle] Jacoco 적용하고, Codecov로 테스트 커버리지 관리하기](https://hello-judy-world.tistory.com/213) | `java`, `gradle`, `test` |
 | 8 | [[Java] Gradle.. Gradle 말입니다. 자바 빌드 도구 🐘](https://hello-judy-world.tistory.com/214) | `java`, `gradle` |
+| 9 | [[Git] 개발 생산성 향상을 위한 Git Hooks 활용 (with. Spotless) 🎣](https://hello-judy-world.tistory.com/215) | `java`, `gradle`, `git` |

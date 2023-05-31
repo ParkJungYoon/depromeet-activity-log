@@ -26,6 +26,7 @@
 🕵️ UT(Usability Test,오프라인): 2023.05.13
 🤼‍♀️ 중간 발표(오프라인): 2023.05.27
 ```
+- [중간 발표 자료](https://github.com/depromeet/jalingobi-server/wiki/%5B8%EC%A3%BC%EC%B0%A8%5D-%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C)
 
 ### 블로깅
 

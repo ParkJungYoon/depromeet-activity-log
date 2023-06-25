@@ -43,3 +43,4 @@
 | 9 | [[Git] 개발 생산성 향상을 위한 Git Hooks 활용 (with. Spotless) 🎣](https://hello-judy-world.tistory.com/215) | `java`, `gradle`, `git` |
 | 10 | [[Spring] Spring Security 개념과 처리 과정 👮‍♀️ (+근데 상황극을 곁들인)](https://hello-judy-world.tistory.com/216) |  `java`, `spring` |
 | 11 | [[Spring] @Valid로 DTO 검증하기](https://hello-judy-world.tistory.com/217) | `java`, `spring` |
+| 12 | [[JPA] 1차 캐시(First-Level Cache), 2차 캐시(Second-Level Cache)](https://hello-judy-world.tistory.com/218) | `java`, `spring`, `jpa` |

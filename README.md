@@ -44,3 +44,4 @@
 | 10 | [[Spring] Spring Security 개념과 처리 과정 👮‍♀️ (+근데 상황극을 곁들인)](https://hello-judy-world.tistory.com/216) |  `java`, `spring` |
 | 11 | [[Spring] @Valid로 DTO 검증하기](https://hello-judy-world.tistory.com/217) | `java`, `spring` |
 | 12 | [[JPA] 1차 캐시(First-Level Cache), 2차 캐시(Second-Level Cache)](https://hello-judy-world.tistory.com/218) | `java`, `spring`, `jpa` |
+| 13 | [[AWS S3] 이미지 처리 1탄: Pre-signed URL로 파일 업로드 구현 ✍️](https://hello-judy-world.tistory.com/219) | `java`, `spring`, `AWS` |

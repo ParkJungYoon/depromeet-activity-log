@@ -45,3 +45,4 @@
 | 11 | [[Spring] @Valid로 DTO 검증하기](https://hello-judy-world.tistory.com/217) | `java`, `spring` |
 | 12 | [[JPA] 1차 캐시(First-Level Cache), 2차 캐시(Second-Level Cache)](https://hello-judy-world.tistory.com/218) | `java`, `spring`, `jpa` |
 | 13 | [[AWS S3] 이미지 처리 1탄: Pre-signed URL로 파일 업로드 구현 ✍️](https://hello-judy-world.tistory.com/219) | `java`, `spring`, `AWS` |
+| 14 | [[AWS S3+Lambda] 이미지 처리 2탄: Image Resizing으로 썸네일 이미지 만들기](https://hello-judy-world.tistory.com/220) | `java`, `spring`, `AWS` |

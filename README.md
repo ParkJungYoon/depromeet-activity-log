@@ -8,7 +8,11 @@
 ### 관련 링크
 
 - [공식 홈페이지](https://www.depromeet.com/), [인스타그램](https://www.instagram.com/depromeet/), [깃허브](https://github.com/depromeet), [비핸스](https://www.behance.net/Depromeet)
-- [서버 팀 repository](https://github.com/depromeet/13th-1team-backend)
+- [거지들의 이야기로 쌓이는 소비습관, **자린고비** | Source Code](https://github.com/depromeet/13th-1team-backend)
+- [자린고비 Behance](https://www.behance.net/gallery/175690517/-Improve-your-spending-habit-with-your-group)
+- [자린고비 Notion](https://l.instagram.com/?u=https%3A%2F%2Fdepromeet13th.oopy.io%2F1cbb7117-7fcf-4cec-93da-b57beb9e26f3%3Ffbclid%3DPAAaZ3aB8q45YVBgmVCcZPGjYyS7YzVj0MTbzzUrWLtwf88D-sm11HXZQIbvQ_aem_AexzCmv5GHi7RbFHw43PT6IsVlS_OVUCykjJSN6USuG73AVOhp8DwjU9YSdGHqTRhXI&e=AT3B76b4zu-nBY0nCcEnDP0-WUozMG_fk5WXH8tKfpWTX6ZX5Q_2P2MnHceUSeWmbBeg4wEMJuFwHApQ8I2HGyrHqFMmVaP-hX3Wpw)
+- [Server 팀 WiKi](https://github.com/depromeet/13th-1team-backend/wiki)
+
 
 ### 전체 일정
 
